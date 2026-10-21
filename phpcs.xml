@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ruleset name="VK library">
+    <rule ref="PSR12"/>
+    <file>src</file>
+    <file>tests</file>
+    <file>examples</file>
+    <arg name="extensions" value="php"/>
+    <arg name="colors"/>
+</ruleset>
